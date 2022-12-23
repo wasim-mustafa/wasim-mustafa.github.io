@@ -1,0 +1,48 @@
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    
+    <atom:link href="https://example.com/tags/index/index.xml" rel="self" type="application/rss+xml"/>
+    
+    
+    <copyright>© Michael Bluth</copyright>
+    
+    <description>index · No Borders, No Limits</description>
+    
+    <language>en-us</language>
+    
+    
+    <link>https://example.com/tags/index/</link>
+    
+    
+    <title>index · No Borders, No Limits</title>
+    
+    
+    
+    <item>
+      
+      
+      
+      <guid>https://example.com/blog/</guid>
+      <link>https://example.com/blog/</link>
+      
+      
+      <pubDate>Mon, 11 Mar 2019 00:00:00 -0700</pubDate>
+      
+      
+      <title>Blog</title>
+      
+    </item>
+    
+  </channel>
+</rss>

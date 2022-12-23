@@ -1,0 +1,142 @@
+baseurl: https://example.com
+copyright: © Michael Bluth
+enablerobotstxt: true
+languagecode: en-us
+languages:
+  en:
+    menu:
+      main:
+      - identifier: home
+        name: Home
+        url: /
+        weight: 10
+      - identifier: about
+        name: About
+        url: /about/
+        weight: 20
+      - identifier: blog
+        name: Blog
+        url: /blog/
+        weight: 30
+      - identifier: categories
+        name: Categories
+        url: /categories/
+        weight: 40
+      - identifier: tags
+        name: Tags
+        url: /tags/
+        weight: 50
+      - identifier: search
+        name: Search
+        url: /search/
+        weight: 60
+    title: No Borders, No Limits
+    weight: 10
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    style: vs
+  tableofcontents:
+    endlevel: 6
+    ordered: true
+    startlevel: 2
+outputs:
+  home:
+  - html
+  - json
+  - rss
+paginate: 50
+params:
+  paige:
+    hide_theme_comment: true
+    hide_theme_link: true
+    social:
+      discord:
+        icon: discord
+        link: https://discord.com/users/username
+        name: Discord
+      dribbble:
+        icon: dribbble
+        link: https://dribbble.com/username
+        name: Dribbble
+      email:
+        icon: envelope
+        link: mailto:username@example.com
+        name: E-mail
+      facebook:
+        icon: facebook
+        link: https://facebook.com/username
+        name: Facebook
+      github:
+        icon: github
+        link: https://github.com/username
+        name: GitHub
+      instagram:
+        icon: instagram
+        link: https://instagram.com/username
+        name: Instagram
+      linkedin:
+        icon: linkedin
+        link: https://linkedin.com/in/username
+        name: LinkedIn
+      medium:
+        icon: medium
+        link: https://medium.com/@username
+        name: Medium
+      pinterest:
+        icon: pinterest
+        link: https://pinterest.com/username
+        name: Pinterest
+      quora:
+        icon: quora
+        link: https://quora.com/profile/username
+        name: Quora
+      reddit:
+        icon: reddit
+        link: https://reddit.com/u/username
+        name: Reddit
+      spotify:
+        icon: spotify
+        link: https://open.spotify.com/user/username
+        name: Spotify
+      stackoverflow:
+        icon: stack-overflow
+        link: https://stackoverflow.com/users/username
+        name: Stack Overflow
+      strava:
+        icon: strava
+        link: https://strava.com/athletes/username
+        name: Strava
+      twitch:
+        icon: twitch
+        link: https://twitch.tv/username
+        name: Twitch
+      twitter:
+        icon: twitter
+        link: https://twitter.com/username
+        name: Twitter
+      vimeo:
+        icon: vimeo
+        link: https://vimeo.com/username
+        name: Vimeo
+      wordpress:
+        icon: wordpress
+        link: https://username.wordpress.com
+        name: Wordpress
+      yelp:
+        icon: yelp
+        link: https://yelp.com/user_details?userid=username
+        name: Yelp
+      youtube:
+        icon: youtube
+        link: https://youtube.com/user/username
+        name: YouTube
+permalinks:
+  blog: /blog/:year/:month/:day/:title/
+social:
+  twitter: username
+theme: paige
+timezone: America/Los_Angeles
+titlecasestyle: Go

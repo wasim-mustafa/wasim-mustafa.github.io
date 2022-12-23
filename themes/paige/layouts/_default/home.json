@@ -1,0 +1,13 @@
+{{- $.Scratch.Add "index" slice -}}
+{{- range where .Site.RegularPages "Params.paige.hide_search" "ne" true -}}
+{{- $.Scratch.Add "index" (dict
+    "categories" .Params.categories
+    "date" .PublishDate
+    "description" (.Description  | markdownify | plainify | htmlUnescape)
+    "keywords" .Params.keywords
+    "link" .RelPermalink
+    "tags" .Params.tags
+    "text" (strings.TrimRight " " (replace (.Plain | htmlUnescape) "\n" " "))
+    "title" (.Title | markdownify | plainify | htmlUnescape)) -}}
+{{- end -}}
+{{- $.Scratch.Get "index" | jsonify -}}

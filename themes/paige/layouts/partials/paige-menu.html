@@ -1,0 +1,13 @@
+{{ $p := . }}
+{{ $basePath := path.Clean (urls.Parse .Site.BaseURL).Path }}
+{{ if eq $basePath "/" }}
+{{ $basePath = "" }}
+{{ end }}
+<nav class="justify-content-center my-3 nav nav-pills">
+    {{ range .Site.Menus.main }}
+    {{ $pagePath := strings.TrimPrefix $basePath $p.RelPermalink }}
+    {{ $menuPath := strings.TrimPrefix $basePath .URL }}
+    {{ $active := or (and (eq $menuPath `/`) (eq $pagePath `/`)) (and (ne $menuPath `/`) (hasPrefix $pagePath $menuPath)) }}
+    <a href="{{ .URL }}" class="nav-link{{ if $active }} active{{ end }}"{{ if $active }} aria-current="page"{{ end }}>{{ .Name }}</a>
+    {{ end }}
+</nav>

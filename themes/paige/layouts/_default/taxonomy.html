@@ -1,0 +1,14 @@
+{{ define "main" }}
+{{ partial "paige-article.html" . }}
+{{ if .Pages }}
+<article>
+    <ul class="list-inline text-center">
+        {{ range (sort .Pages "Title") }}
+        <li class="list-inline-item">
+            <a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
+        </li>
+        {{ end }}
+    </ul>
+</article>
+{{ end }}
+{{ end }}

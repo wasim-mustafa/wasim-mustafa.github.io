@@ -1,0 +1,72 @@
+baseurl: https://wasim-mustafa.github.io
+copyright: © Wasim Mustafa
+enablerobotstxt: true
+languagecode: en-GB
+languages:
+  en:
+    menu:
+      main:
+      - identifier: home
+        name: Home
+        url: /
+        weight: 10
+      - identifier: resume
+        name: Résumé
+        url: /resume/
+        weight: 20
+      # - identifier: blog
+      #   name: Blog
+      #   url: /blog/
+      #   weight: 30
+      # - identifier: categories
+      #   name: Categories
+      #   url: /categories/
+      #   weight: 40
+      # - identifier: tags
+      #   name: Tags
+      #   url: /tags/
+      #   weight: 50
+      # - identifier: search
+      #   name: Search
+      #   url: /search/
+      #   weight: 60
+    title: Wasim Mustafa, PhD student
+    weight: 10
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    style: vs
+  tableofcontents:
+    endlevel: 6
+    ordered: true
+    startlevel: 2
+outputs:
+  home:
+  - html
+  - json
+  - rss
+paginate: 50
+params:
+  paige:
+    hide_theme_comment: true
+    hide_theme_link: true
+    social:
+      email:
+        icon: envelope
+        link: mailto:ucfawsm@ucl.ac.uk
+        name: E-mail
+      linkedin:
+        icon: linkedin
+        link: https://linkedin.com/in/wasimmustafa
+        name: LinkedIn
+      twitter:
+        icon: twitter
+        link: https://twitter.com/Variscan
+        name: Twitter
+permalinks:
+  blog: /blog/:year/:month/:day/:title/
+theme: "paige"
+timezone: Europe/London
+titlecasestyle: Go

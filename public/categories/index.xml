@@ -1,0 +1,65 @@
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    
+    <atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml"/>
+    
+    
+    <copyright>© Michael Bluth</copyright>
+    
+    <description>Categories · No Borders, No Limits</description>
+    
+    <language>en-us</language>
+    
+    
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 -0700</lastBuildDate>
+    
+    <link>https://example.com/categories/</link>
+    
+    
+    <title>Categories · No Borders, No Limits</title>
+    
+    
+    
+    <item>
+      
+      
+      
+      <guid>https://example.com/categories/syntax/</guid>
+      <link>https://example.com/categories/syntax/</link>
+      
+      
+      <pubDate>Mon, 11 Mar 2019 00:00:00 -0700</pubDate>
+      
+      
+      <title>syntax</title>
+      
+    </item>
+    
+    <item>
+      
+      
+      
+      <guid>https://example.com/categories/themes/</guid>
+      <link>https://example.com/categories/themes/</link>
+      
+      
+      <pubDate>Mon, 11 Mar 2019 00:00:00 -0700</pubDate>
+      
+      
+      <title>themes</title>
+      
+    </item>
+    
+  </channel>
+</rss>

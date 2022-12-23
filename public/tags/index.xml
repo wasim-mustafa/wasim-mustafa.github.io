@@ -1,0 +1,153 @@
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    
+    <atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml"/>
+    
+    
+    <copyright>© Michael Bluth</copyright>
+    
+    <description>Tags · No Borders, No Limits</description>
+    
+    <language>en-us</language>
+    
+    
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 -0700</lastBuildDate>
+    
+    <link>https://example.com/tags/</link>
+    
+    
+    <title>Tags · No Borders, No Limits</title>
+    
+    
+    
+    <item>
+      
+      
+      
+      <guid>https://example.com/tags/css/</guid>
+      <link>https://example.com/tags/css/</link>
+      
+      
+      <pubDate>Mon, 11 Mar 2019 00:00:00 -0700</pubDate>
+      
+      
+      <title>css</title>
+      
+    </item>
+    
+    <item>
+      
+      
+      
+      <guid>https://example.com/tags/html/</guid>
+      <link>https://example.com/tags/html/</link>
+      
+      
+      <pubDate>Mon, 11 Mar 2019 00:00:00 -0700</pubDate>
+      
+      
+      <title>html</title>
+      
+    </item>
+    
+    <item>
+      
+      
+      
+      <guid>https://example.com/tags/markdown/</guid>
+      <link>https://example.com/tags/markdown/</link>
+      
+      
+      <pubDate>Mon, 11 Mar 2019 00:00:00 -0700</pubDate>
+      
+      
+      <title>markdown</title>
+      
+    </item>
+    
+    <item>
+      
+      
+      
+      <guid>https://example.com/tags/privacy/</guid>
+      <link>https://example.com/tags/privacy/</link>
+      
+      
+      <pubDate>Sun, 10 Mar 2019 00:00:00 -0800</pubDate>
+      
+      
+      <title>privacy</title>
+      
+    </item>
+    
+    <item>
+      
+      
+      
+      <guid>https://example.com/tags/shortcodes/</guid>
+      <link>https://example.com/tags/shortcodes/</link>
+      
+      
+      <pubDate>Sun, 10 Mar 2019 00:00:00 -0800</pubDate>
+      
+      
+      <title>shortcodes</title>
+      
+    </item>
+    
+    <item>
+      
+      
+      
+      <guid>https://example.com/tags/text/</guid>
+      <link>https://example.com/tags/text/</link>
+      
+      
+      <pubDate>Sat, 09 Mar 2019 00:00:00 -0800</pubDate>
+      
+      
+      <title>text</title>
+      
+    </item>
+    
+    <item>
+      
+      
+      
+      <guid>https://example.com/tags/emoji/</guid>
+      <link>https://example.com/tags/emoji/</link>
+      
+      
+      <pubDate>Tue, 05 Mar 2019 00:00:00 -0800</pubDate>
+      
+      
+      <title>emoji</title>
+      
+    </item>
+    
+    <item>
+      
+      
+      
+      <guid>https://example.com/tags/index/</guid>
+      <link>https://example.com/tags/index/</link>
+      
+      
+      
+      <title>index</title>
+      
+    </item>
+    
+  </channel>
+</rss>

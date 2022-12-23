@@ -1,0 +1,23 @@
+paige_analytics_noscript:
+  other: JavaScript is required for analytics.
+
+paige_comments_noscript:
+  other: JavaScript is required for comments.
+
+paige_search_button:
+  other: Search
+
+paige_search_error:
+  other: Error
+
+paige_search_input:
+  other: Query
+
+paige_search_nothing:
+  other: Nothing found
+
+paige_search_searching:
+  other: Searching
+
+paige_search_something:
+  other: Something found
