@@ -12,22 +12,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     
-    <atom:link href="https://example.com/tags/shortcodes/index.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://wasim-mustafa.github.io/tags/shortcodes/index.xml" rel="self" type="application/rss+xml"/>
     
     
-    <copyright>© Michael Bluth</copyright>
+    <copyright>© Wasim Mustafa</copyright>
     
-    <description>shortcodes · No Borders, No Limits</description>
+    <description>shortcodes · Wasim Mustafa, PhD student</description>
     
-    <language>en-us</language>
-    
-    
-    <lastBuildDate>Sun, 10 Mar 2019 00:00:00 -0800</lastBuildDate>
-    
-    <link>https://example.com/tags/shortcodes/</link>
+    <language>en-GB</language>
     
     
-    <title>shortcodes · No Borders, No Limits</title>
+    <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+    <link>https://wasim-mustafa.github.io/tags/shortcodes/</link>
+    
+    
+    <title>shortcodes · Wasim Mustafa, PhD student</title>
     
     
     
@@ -108,11 +108,11 @@
 <div class="play"><svg version="1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 61 61"><circle cx="30.5" cy="30.5" r="30.5" opacity=".8" fill="#000"></circle><path d="M25.3 19.2c-2.1-1.2-3.8-.2-3.8 2.2v18.1c0 2.4 1.7 3.4 3.8 2.2l16.6-9.1c2.1-1.2 2.1-3.2 0-4.4l-16.6-9z" fill="#fff"></path></svg></div></a></div>]]></description>
       
       
-      <guid>https://example.com/blog/2019/03/10/rich-content/</guid>
-      <link>https://example.com/blog/2019/03/10/rich-content/</link>
+      <guid>https://wasim-mustafa.github.io/blog/2019/03/10/rich-content/</guid>
+      <link>https://wasim-mustafa.github.io/blog/2019/03/10/rich-content/</link>
       
       
-      <pubDate>Sun, 10 Mar 2019 00:00:00 -0800</pubDate>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
       
       <title>Rich Content</title>

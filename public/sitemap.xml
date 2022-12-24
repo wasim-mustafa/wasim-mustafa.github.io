@@ -2,65 +2,85 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/blog/</loc>
-    <lastmod>2019-03-11T00:00:00-07:00</lastmod>
+    <loc>https://wasim-mustafa.github.io/post/about/</loc>
+    <lastmod>2022-12-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/</loc>
-    <lastmod>2019-03-11T00:00:00-07:00</lastmod>
+    <loc>https://wasim-mustafa.github.io/post/</loc>
+    <lastmod>2022-12-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00-07:00</lastmod>
+    <loc>https://wasim-mustafa.github.io/</loc>
+    <lastmod>2022-12-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00-07:00</lastmod>
+    <loc>https://wasim-mustafa.github.io/blog/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00-07:00</lastmod>
+    <loc>https://wasim-mustafa.github.io/categories/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/blog/2019/03/11/markdown-syntax-guide/</loc>
-    <lastmod>2019-03-11T00:00:00-07:00</lastmod>
+    <loc>https://wasim-mustafa.github.io/blog/2020/12/01/hello-r-markdown/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/</loc>
-    <lastmod>2019-03-11T00:00:00-07:00</lastmod>
+    <loc>https://wasim-mustafa.github.io/tags/plot/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00-07:00</lastmod>
+    <loc>https://wasim-mustafa.github.io/categories/r/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/</loc>
-    <lastmod>2019-03-11T00:00:00-07:00</lastmod>
+    <loc>https://wasim-mustafa.github.io/tags/r-markdown/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/themes/</loc>
-    <lastmod>2019-03-11T00:00:00-07:00</lastmod>
+    <loc>https://wasim-mustafa.github.io/tags/regression/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/privacy/</loc>
-    <lastmod>2019-03-10T00:00:00-08:00</lastmod>
+    <loc>https://wasim-mustafa.github.io/tags/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/blog/2019/03/10/rich-content/</loc>
-    <lastmod>2019-03-10T00:00:00-08:00</lastmod>
+    <loc>https://wasim-mustafa.github.io/tags/css/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/shortcodes/</loc>
-    <lastmod>2019-03-10T00:00:00-08:00</lastmod>
+    <loc>https://wasim-mustafa.github.io/tags/html/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/blog/2019/03/09/placeholder-text/</loc>
-    <lastmod>2019-03-09T00:00:00-08:00</lastmod>
+    <loc>https://wasim-mustafa.github.io/tags/markdown/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/text/</loc>
-    <lastmod>2019-03-09T00:00:00-08:00</lastmod>
+    <loc>https://wasim-mustafa.github.io/blog/2019/03/11/markdown-syntax-guide/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/blog/2019/03/08/math-typesetting/</loc>
-    <lastmod>2019-03-08T00:00:00-08:00</lastmod>
+    <loc>https://wasim-mustafa.github.io/categories/syntax/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/emoji/</loc>
-    <lastmod>2019-03-05T00:00:00-08:00</lastmod>
+    <loc>https://wasim-mustafa.github.io/categories/themes/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/blog/2019/03/05/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00-08:00</lastmod>
+    <loc>https://wasim-mustafa.github.io/tags/privacy/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/about/</loc>
-    <lastmod>2019-02-28T00:00:00-08:00</lastmod>
+    <loc>https://wasim-mustafa.github.io/blog/2019/03/10/rich-content/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/index/</loc>
+    <loc>https://wasim-mustafa.github.io/tags/shortcodes/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/search/</loc>
+    <loc>https://wasim-mustafa.github.io/blog/2019/03/09/placeholder-text/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wasim-mustafa.github.io/tags/text/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wasim-mustafa.github.io/blog/2019/03/08/math-typesetting/</loc>
+    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wasim-mustafa.github.io/tags/emoji/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wasim-mustafa.github.io/blog/2019/03/05/emoji-support/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wasim-mustafa.github.io/tags/index/</loc>
+  </url><url>
+    <loc>https://wasim-mustafa.github.io/resume/</loc>
+  </url><url>
+    <loc>https://wasim-mustafa.github.io/search/</loc>
   </url>
 </urlset>

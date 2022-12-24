@@ -12,22 +12,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     
-    <atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://wasim-mustafa.github.io/categories/index.xml" rel="self" type="application/rss+xml"/>
     
     
-    <copyright>© Michael Bluth</copyright>
+    <copyright>© Wasim Mustafa</copyright>
     
-    <description>Categories · No Borders, No Limits</description>
+    <description>Categories · Wasim Mustafa, PhD student</description>
     
-    <language>en-us</language>
-    
-    
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 -0700</lastBuildDate>
-    
-    <link>https://example.com/categories/</link>
+    <language>en-GB</language>
     
     
-    <title>Categories · No Borders, No Limits</title>
+    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate>
+    
+    <link>https://wasim-mustafa.github.io/categories/</link>
+    
+    
+    <title>Categories · Wasim Mustafa, PhD student</title>
     
     
     
@@ -35,11 +35,26 @@
       
       
       
-      <guid>https://example.com/categories/syntax/</guid>
-      <link>https://example.com/categories/syntax/</link>
+      <guid>https://wasim-mustafa.github.io/categories/r/</guid>
+      <link>https://wasim-mustafa.github.io/categories/r/</link>
       
       
-      <pubDate>Mon, 11 Mar 2019 00:00:00 -0700</pubDate>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      
+      
+      <title>R</title>
+      
+    </item>
+    
+    <item>
+      
+      
+      
+      <guid>https://wasim-mustafa.github.io/categories/syntax/</guid>
+      <link>https://wasim-mustafa.github.io/categories/syntax/</link>
+      
+      
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
       
       <title>syntax</title>
@@ -50,11 +65,11 @@
       
       
       
-      <guid>https://example.com/categories/themes/</guid>
-      <link>https://example.com/categories/themes/</link>
+      <guid>https://wasim-mustafa.github.io/categories/themes/</guid>
+      <link>https://wasim-mustafa.github.io/categories/themes/</link>
       
       
-      <pubDate>Mon, 11 Mar 2019 00:00:00 -0700</pubDate>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
       
       <title>themes</title>

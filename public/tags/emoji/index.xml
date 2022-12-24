@@ -12,22 +12,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     
-    <atom:link href="https://example.com/tags/emoji/index.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://wasim-mustafa.github.io/tags/emoji/index.xml" rel="self" type="application/rss+xml"/>
     
     
-    <copyright>© Michael Bluth</copyright>
+    <copyright>© Wasim Mustafa</copyright>
     
-    <description>emoji · No Borders, No Limits</description>
+    <description>emoji · Wasim Mustafa, PhD student</description>
     
-    <language>en-us</language>
-    
-    
-    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 -0800</lastBuildDate>
-    
-    <link>https://example.com/tags/emoji/</link>
+    <language>en-GB</language>
     
     
-    <title>emoji · No Borders, No Limits</title>
+    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+    <link>https://wasim-mustafa.github.io/tags/emoji/</link>
+    
+    
+    <title>emoji · Wasim Mustafa, PhD student</title>
     
     
     
@@ -47,11 +47,11 @@
 </span></span><span style="display:flex;"><span>}</span></span></code></pre></div>]]></description>
       
       
-      <guid>https://example.com/blog/2019/03/05/emoji-support/</guid>
-      <link>https://example.com/blog/2019/03/05/emoji-support/</link>
+      <guid>https://wasim-mustafa.github.io/blog/2019/03/05/emoji-support/</guid>
+      <link>https://wasim-mustafa.github.io/blog/2019/03/05/emoji-support/</link>
       
       
-      <pubDate>Tue, 05 Mar 2019 00:00:00 -0800</pubDate>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
       
       <title>Emoji Support</title>

@@ -14,24 +14,89 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     
-    <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://wasim-mustafa.github.io/index.xml" rel="self" type="application/rss+xml"/>
     
     
-    <copyright>© Michael Bluth</copyright>
+    <copyright>© Wasim Mustafa</copyright>
     
-    <description>No Borders, No Limits</description>
+    <description>Wasim Mustafa</description>
     
-    <language>en-us</language>
-    
-    
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 -0700</lastBuildDate>
-    
-    <link>https://example.com/</link>
+    <language>en-GB</language>
     
     
-    <title>No Borders, No Limits</title>
+    <lastBuildDate>Thu, 22 Dec 2022 00:00:00 +0000</lastBuildDate>
+    
+    <link>https://wasim-mustafa.github.io/</link>
     
     
+    <title>Wasim Mustafa</title>
+    
+    
+    
+    <item>
+      
+      
+      
+      <guid>https://wasim-mustafa.github.io/post/about/</guid>
+      <link>https://wasim-mustafa.github.io/post/about/</link>
+      
+      
+      <pubDate>Thu, 22 Dec 2022 00:00:00 +0000</pubDate>
+      
+      
+      <title>About</title>
+      
+    </item>
+    
+    <item>
+      
+      
+      <description><![CDATA[<h1 id="r-markdown">R Markdown</h1>
+<p>This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <a href="http://rmarkdown.rstudio.com">http://rmarkdown.rstudio.com</a>.</p>
+<p>You can embed an R code chunk like this:</p>
+<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-r" data-lang="r"><span style="display:flex;"><span>summary(cars)
+</span></span><span style="display:flex;"><span><span style="color:#008000">##      speed           dist       </span>
+</span></span><span style="display:flex;"><span><span style="color:#008000">##  Min.   : 4.0   Min.   :  2.00  </span>
+</span></span><span style="display:flex;"><span><span style="color:#008000">##  1st Qu.:12.0   1st Qu.: 26.00  </span>
+</span></span><span style="display:flex;"><span><span style="color:#008000">##  Median :15.0   Median : 36.00  </span>
+</span></span><span style="display:flex;"><span><span style="color:#008000">##  Mean   :15.4   Mean   : 42.98  </span>
+</span></span><span style="display:flex;"><span><span style="color:#008000">##  3rd Qu.:19.0   3rd Qu.: 56.00  </span>
+</span></span><span style="display:flex;"><span><span style="color:#008000">##  Max.   :25.0   Max.   :120.00</span>
+</span></span><span style="display:flex;"><span>fit &lt;- lm(dist ~ speed, data = cars)
+</span></span><span style="display:flex;"><span>fit
+</span></span><span style="display:flex;"><span><span style="color:#008000">## </span>
+</span></span><span style="display:flex;"><span><span style="color:#008000">## Call:</span>
+</span></span><span style="display:flex;"><span><span style="color:#008000">## lm(formula = dist ~ speed, data = cars)</span>
+</span></span><span style="display:flex;"><span><span style="color:#008000">## </span>
+</span></span><span style="display:flex;"><span><span style="color:#008000">## Coefficients:</span>
+</span></span><span style="display:flex;"><span><span style="color:#008000">## (Intercept)        speed  </span>
+</span></span><span style="display:flex;"><span><span style="color:#008000">##     -17.579        3.932</span>
+</span></span></code></pre></div><h1 id="including-plots">Including Plots</h1>
+<p>You can also embed plots. See Figure <a href="#fig:pie">1</a> for example:</p>
+<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-r" data-lang="r"><span style="display:flex;"><span>par(mar = c(0, 1, 0, 1))
+</span></span><span style="display:flex;"><span>pie(
+</span></span><span style="display:flex;"><span>  c(280, 60, 20),
+</span></span><span style="display:flex;"><span>  c(<span style="color:#a31515">&#39;Sky&#39;</span>, <span style="color:#a31515">&#39;Sunny side of pyramid&#39;</span>, <span style="color:#a31515">&#39;Shady side of pyramid&#39;</span>),
+</span></span><span style="display:flex;"><span>  col = c(<span style="color:#a31515">&#39;#0292D8&#39;</span>, <span style="color:#a31515">&#39;#F7EA39&#39;</span>, <span style="color:#a31515">&#39;#C4B632&#39;</span>),
+</span></span><span style="display:flex;"><span>  init.angle = -50, border = <span style="color:#00f">NA</span>
+</span></span><span style="display:flex;"><span>)
+</span></span></code></pre></div><div class="figure">
+<img src="https://wasim-mustafa.github.io/blog/2020/12/01/hello-r-markdown/index_files/figure-html/pie-1.png" alt="A fancy pie chart." width="672" />
+<p class="caption">Figure 1: A fancy pie chart.</p>
+</div>
+]]></description>
+      
+      
+      <guid>https://wasim-mustafa.github.io/blog/2020/12/01/hello-r-markdown/</guid>
+      <link>https://wasim-mustafa.github.io/blog/2020/12/01/hello-r-markdown/</link>
+      
+      
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      
+      
+      <title>Hello R Markdown</title>
+      
+    </item>
     
     <item>
       
@@ -176,11 +241,11 @@
 </div>]]></description>
       
       
-      <guid>https://example.com/blog/2019/03/11/markdown-syntax-guide/</guid>
-      <link>https://example.com/blog/2019/03/11/markdown-syntax-guide/</link>
+      <guid>https://wasim-mustafa.github.io/blog/2019/03/11/markdown-syntax-guide/</guid>
+      <link>https://wasim-mustafa.github.io/blog/2019/03/11/markdown-syntax-guide/</link>
       
       
-      <pubDate>Mon, 11 Mar 2019 00:00:00 -0700</pubDate>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
       
       <title>Markdown Syntax Guide</title>
@@ -264,11 +329,11 @@
 <div class="play"><svg version="1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 61 61"><circle cx="30.5" cy="30.5" r="30.5" opacity=".8" fill="#000"></circle><path d="M25.3 19.2c-2.1-1.2-3.8-.2-3.8 2.2v18.1c0 2.4 1.7 3.4 3.8 2.2l16.6-9.1c2.1-1.2 2.1-3.2 0-4.4l-16.6-9z" fill="#fff"></path></svg></div></a></div>]]></description>
       
       
-      <guid>https://example.com/blog/2019/03/10/rich-content/</guid>
-      <link>https://example.com/blog/2019/03/10/rich-content/</link>
+      <guid>https://wasim-mustafa.github.io/blog/2019/03/10/rich-content/</guid>
+      <link>https://wasim-mustafa.github.io/blog/2019/03/10/rich-content/</link>
       
       
-      <pubDate>Sun, 10 Mar 2019 00:00:00 -0800</pubDate>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
       
       <title>Rich Content</title>
@@ -303,11 +368,11 @@
 <p>Eurytus Hector, materna ipsumque ut Politen, nec, nate, ignari, vernum cohaesit sequitur. Vel <strong>mitis temploque</strong> vocatus, inque alis, <em>oculos nomen</em> non silvis corpore coniunx ne displicet illa. Crescunt non unus, vidit visa quantum inmiti flumina mortis facto sic: undique a alios vincula sunt iactata abdita! Suspenderat ego fuit tendit: luna, ante urbem Propoetides <strong>parte</strong>.</p>]]></description>
       
       
-      <guid>https://example.com/blog/2019/03/09/placeholder-text/</guid>
-      <link>https://example.com/blog/2019/03/09/placeholder-text/</link>
+      <guid>https://wasim-mustafa.github.io/blog/2019/03/09/placeholder-text/</guid>
+      <link>https://wasim-mustafa.github.io/blog/2019/03/09/placeholder-text/</link>
       
       
-      <pubDate>Sat, 09 Mar 2019 00:00:00 -0800</pubDate>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
       
       <title>Placeholder Text</title>
@@ -339,11 +404,11 @@ $$
 $$</p>]]></description>
       
       
-      <guid>https://example.com/blog/2019/03/08/math-typesetting/</guid>
-      <link>https://example.com/blog/2019/03/08/math-typesetting/</link>
+      <guid>https://wasim-mustafa.github.io/blog/2019/03/08/math-typesetting/</guid>
+      <link>https://wasim-mustafa.github.io/blog/2019/03/08/math-typesetting/</link>
       
       
-      <pubDate>Fri, 08 Mar 2019 00:00:00 -0800</pubDate>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
       
       <title>Math Typesetting</title>
@@ -366,11 +431,11 @@ $$</p>]]></description>
 </span></span><span style="display:flex;"><span>}</span></span></code></pre></div>]]></description>
       
       
-      <guid>https://example.com/blog/2019/03/05/emoji-support/</guid>
-      <link>https://example.com/blog/2019/03/05/emoji-support/</link>
+      <guid>https://wasim-mustafa.github.io/blog/2019/03/05/emoji-support/</guid>
+      <link>https://wasim-mustafa.github.io/blog/2019/03/05/emoji-support/</link>
       
       
-      <pubDate>Tue, 05 Mar 2019 00:00:00 -0800</pubDate>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
       
       <title>Emoji Support</title>
@@ -380,30 +445,35 @@ $$</p>]]></description>
     <item>
       
       
-      <description><![CDATA[<p>Written in Go, Hugo is an open source static site generator available under the <a href="https://github.com/gohugoio/hugo/blob/master/LICENSE">Apache Licence 2.0.</a> Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.</p>
-<p>Hugo makes use of a variety of open source projects including:</p>
+      <description><![CDATA[<h2 id="in-short">In short</h2>
+<p>I am a PhD student at UCL Earth Sciences and the Natural History Museum. My MPhil/PhD, researching metal partitioning at arc volcanoes, is funded through the Natural Environment Research Council via the London NERC DTP.</p>
+<h2 id="education">Education</h2>
 <ul>
-<li><a href="https://github.com/yuin/goldmark">https://github.com/yuin/goldmark</a></li>
-<li><a href="https://github.com/alecthomas/chroma">https://github.com/alecthomas/chroma</a></li>
-<li><a href="https://github.com/muesli/smartcrop">https://github.com/muesli/smartcrop</a></li>
-<li><a href="https://github.com/spf13/cobra">https://github.com/spf13/cobra</a></li>
-<li><a href="https://github.com/spf13/viper">https://github.com/spf13/viper</a></li>
+<li><strong>MPhil/PhD</strong> - University College London, UK (2023 - current)</li>
+<li><strong>MEarthSci</strong> Geology - University of Manchester, UK (2018 - 2022). First class degree.</li>
 </ul>
-<p>Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.</p>
-<p>Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.</p>
-<p>Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.</p>
-<p>Learn more and contribute on <a href="https://github.com/gohugoio">GitHub</a>.</p>
-]]></description>
+<h2 id="research-experience">Research experience</h2>
+<p><strong>2022</strong></p>
+<p><u><strong>Field Assistant</strong> - Mission Jurassic, Wyoming, USA</u> <br>Worked to excavate plant and dinosaur fossils within an international team, in the presence of media organisations.</p>
+<p><b>2021</b></p>
+<p><u><strong>Undergraduate Research Experience Placement</strong> - Zoological Society of London</u> <br>Six-week paid internship with the Institute of Zoology&rsquo;s Indicators and Assessments Unit, investigating representational gaps in the Living Planet Index.</p>
+<br>
+<h2 id="volunteering">Volunteering</h2>
+<p><b>2022</b></p>
+<p><u><strong>Student Conference Organiser</strong> - British Ecological Society and the Linnean Society</u> <br> Worked to organise the Student Futures and Research Conference.  This virtual conference had over 70 attendees from across four continents, boosting the reach of these two British learned societies.</p>
+<br>
+<h2 id="awards">Awards</h2>
+<p><u><strong>Palaeontological Association Undergraduate Prize</strong></u> (2022)</p>
+<p><u><strong>BP Achievement Award</strong></u> (2020)<br>£1,000 stipend. Awarded for policy essay regarding future natural gas use.</p>
+<br>]]></description>
       
       
-      <guid>https://example.com/about/</guid>
-      <link>https://example.com/about/</link>
+      <guid>https://wasim-mustafa.github.io/resume/</guid>
+      <link>https://wasim-mustafa.github.io/resume/</link>
       
       
-      <pubDate>Thu, 28 Feb 2019 00:00:00 -0800</pubDate>
       
-      
-      <title>About</title>
+      <title>Résumé</title>
       
     </item>
     
@@ -411,8 +481,8 @@ $$</p>]]></description>
       
       
       
-      <guid>https://example.com/search/</guid>
-      <link>https://example.com/search/</link>
+      <guid>https://wasim-mustafa.github.io/search/</guid>
+      <link>https://wasim-mustafa.github.io/search/</link>
       
       
       

@@ -14,13 +14,13 @@ My PhD project focuses on the influence of magmatic water content on metal parti
 
 Outside that, my interests include:
 
-* **Education** - I take a keen interest in English education policy
+* **Education** - I take a keen interest in English education policy.
 
-* **Access to academia** - especially in the earth sciences, which suffers from a large socio-economic gap. My small part to play has been in outreach - chiefly through university events
+* **Access to academia** - especially in the earth sciences, which suffers from a large socio-economic gap. My small part to play has been in outreach - chiefly through university events.
 
-* **Science for society** - including the science-policy interface. My research focus has utility in understanding volcanic implications for society and environment
+* **Science for society** - including the science-policy interface. My research focus has utility in understanding volcanic implications for society and environment.
 
-* **Commodity risk** - awarded £1,000 by BP in 2020 for a policy essay on natural gas use
+* **Commodity risk** - awarded £1,000 by BP in 2020 for a policy essay on natural gas use.
 
 ## Get in touch
 

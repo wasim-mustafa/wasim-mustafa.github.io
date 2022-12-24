@@ -1,0 +1,50 @@
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    
+    <atom:link href="https://wasim-mustafa.github.io/post/index.xml" rel="self" type="application/rss+xml"/>
+    
+    
+    <copyright>© Wasim Mustafa</copyright>
+    
+    <description>Posts · Wasim Mustafa, PhD student</description>
+    
+    <language>en-GB</language>
+    
+    
+    <lastBuildDate>Thu, 22 Dec 2022 00:00:00 +0000</lastBuildDate>
+    
+    <link>https://wasim-mustafa.github.io/post/</link>
+    
+    
+    <title>Posts · Wasim Mustafa, PhD student</title>
+    
+    
+    
+    <item>
+      
+      
+      
+      <guid>https://wasim-mustafa.github.io/post/about/</guid>
+      <link>https://wasim-mustafa.github.io/post/about/</link>
+      
+      
+      <pubDate>Thu, 22 Dec 2022 00:00:00 +0000</pubDate>
+      
+      
+      <title>About</title>
+      
+    </item>
+    
+  </channel>
+</rss>

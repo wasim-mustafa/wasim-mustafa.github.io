@@ -12,22 +12,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     
-    <atom:link href="https://example.com/tags/text/index.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://wasim-mustafa.github.io/tags/text/index.xml" rel="self" type="application/rss+xml"/>
     
     
-    <copyright>© Michael Bluth</copyright>
+    <copyright>© Wasim Mustafa</copyright>
     
-    <description>text · No Borders, No Limits</description>
+    <description>text · Wasim Mustafa, PhD student</description>
     
-    <language>en-us</language>
-    
-    
-    <lastBuildDate>Sat, 09 Mar 2019 00:00:00 -0800</lastBuildDate>
-    
-    <link>https://example.com/tags/text/</link>
+    <language>en-GB</language>
     
     
-    <title>text · No Borders, No Limits</title>
+    <lastBuildDate>Sat, 09 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+    <link>https://wasim-mustafa.github.io/tags/text/</link>
+    
+    
+    <title>text · Wasim Mustafa, PhD student</title>
     
     
     
@@ -59,11 +59,11 @@
 <p>Eurytus Hector, materna ipsumque ut Politen, nec, nate, ignari, vernum cohaesit sequitur. Vel <strong>mitis temploque</strong> vocatus, inque alis, <em>oculos nomen</em> non silvis corpore coniunx ne displicet illa. Crescunt non unus, vidit visa quantum inmiti flumina mortis facto sic: undique a alios vincula sunt iactata abdita! Suspenderat ego fuit tendit: luna, ante urbem Propoetides <strong>parte</strong>.</p>]]></description>
       
       
-      <guid>https://example.com/blog/2019/03/09/placeholder-text/</guid>
-      <link>https://example.com/blog/2019/03/09/placeholder-text/</link>
+      <guid>https://wasim-mustafa.github.io/blog/2019/03/09/placeholder-text/</guid>
+      <link>https://wasim-mustafa.github.io/blog/2019/03/09/placeholder-text/</link>
       
       
-      <pubDate>Sat, 09 Mar 2019 00:00:00 -0800</pubDate>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
       
       <title>Placeholder Text</title>

@@ -12,22 +12,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     
-    <atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://wasim-mustafa.github.io/tags/index.xml" rel="self" type="application/rss+xml"/>
     
     
-    <copyright>© Michael Bluth</copyright>
+    <copyright>© Wasim Mustafa</copyright>
     
-    <description>Tags · No Borders, No Limits</description>
+    <description>Tags · Wasim Mustafa, PhD student</description>
     
-    <language>en-us</language>
-    
-    
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 -0700</lastBuildDate>
-    
-    <link>https://example.com/tags/</link>
+    <language>en-GB</language>
     
     
-    <title>Tags · No Borders, No Limits</title>
+    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate>
+    
+    <link>https://wasim-mustafa.github.io/tags/</link>
+    
+    
+    <title>Tags · Wasim Mustafa, PhD student</title>
     
     
     
@@ -35,11 +35,56 @@
       
       
       
-      <guid>https://example.com/tags/css/</guid>
-      <link>https://example.com/tags/css/</link>
+      <guid>https://wasim-mustafa.github.io/tags/plot/</guid>
+      <link>https://wasim-mustafa.github.io/tags/plot/</link>
       
       
-      <pubDate>Mon, 11 Mar 2019 00:00:00 -0700</pubDate>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      
+      
+      <title>plot</title>
+      
+    </item>
+    
+    <item>
+      
+      
+      
+      <guid>https://wasim-mustafa.github.io/tags/r-markdown/</guid>
+      <link>https://wasim-mustafa.github.io/tags/r-markdown/</link>
+      
+      
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      
+      
+      <title>R Markdown</title>
+      
+    </item>
+    
+    <item>
+      
+      
+      
+      <guid>https://wasim-mustafa.github.io/tags/regression/</guid>
+      <link>https://wasim-mustafa.github.io/tags/regression/</link>
+      
+      
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      
+      
+      <title>regression</title>
+      
+    </item>
+    
+    <item>
+      
+      
+      
+      <guid>https://wasim-mustafa.github.io/tags/css/</guid>
+      <link>https://wasim-mustafa.github.io/tags/css/</link>
+      
+      
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
       
       <title>css</title>
@@ -50,11 +95,11 @@
       
       
       
-      <guid>https://example.com/tags/html/</guid>
-      <link>https://example.com/tags/html/</link>
+      <guid>https://wasim-mustafa.github.io/tags/html/</guid>
+      <link>https://wasim-mustafa.github.io/tags/html/</link>
       
       
-      <pubDate>Mon, 11 Mar 2019 00:00:00 -0700</pubDate>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
       
       <title>html</title>
@@ -65,11 +110,11 @@
       
       
       
-      <guid>https://example.com/tags/markdown/</guid>
-      <link>https://example.com/tags/markdown/</link>
+      <guid>https://wasim-mustafa.github.io/tags/markdown/</guid>
+      <link>https://wasim-mustafa.github.io/tags/markdown/</link>
       
       
-      <pubDate>Mon, 11 Mar 2019 00:00:00 -0700</pubDate>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
       
       <title>markdown</title>
@@ -80,11 +125,11 @@
       
       
       
-      <guid>https://example.com/tags/privacy/</guid>
-      <link>https://example.com/tags/privacy/</link>
+      <guid>https://wasim-mustafa.github.io/tags/privacy/</guid>
+      <link>https://wasim-mustafa.github.io/tags/privacy/</link>
       
       
-      <pubDate>Sun, 10 Mar 2019 00:00:00 -0800</pubDate>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
       
       <title>privacy</title>
@@ -95,11 +140,11 @@
       
       
       
-      <guid>https://example.com/tags/shortcodes/</guid>
-      <link>https://example.com/tags/shortcodes/</link>
+      <guid>https://wasim-mustafa.github.io/tags/shortcodes/</guid>
+      <link>https://wasim-mustafa.github.io/tags/shortcodes/</link>
       
       
-      <pubDate>Sun, 10 Mar 2019 00:00:00 -0800</pubDate>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
       
       <title>shortcodes</title>
@@ -110,11 +155,11 @@
       
       
       
-      <guid>https://example.com/tags/text/</guid>
-      <link>https://example.com/tags/text/</link>
+      <guid>https://wasim-mustafa.github.io/tags/text/</guid>
+      <link>https://wasim-mustafa.github.io/tags/text/</link>
       
       
-      <pubDate>Sat, 09 Mar 2019 00:00:00 -0800</pubDate>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
       
       <title>text</title>
@@ -125,11 +170,11 @@
       
       
       
-      <guid>https://example.com/tags/emoji/</guid>
-      <link>https://example.com/tags/emoji/</link>
+      <guid>https://wasim-mustafa.github.io/tags/emoji/</guid>
+      <link>https://wasim-mustafa.github.io/tags/emoji/</link>
       
       
-      <pubDate>Tue, 05 Mar 2019 00:00:00 -0800</pubDate>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
       
       <title>emoji</title>
@@ -140,8 +185,8 @@
       
       
       
-      <guid>https://example.com/tags/index/</guid>
-      <link>https://example.com/tags/index/</link>
+      <guid>https://wasim-mustafa.github.io/tags/index/</guid>
+      <link>https://wasim-mustafa.github.io/tags/index/</link>
       
       
       
