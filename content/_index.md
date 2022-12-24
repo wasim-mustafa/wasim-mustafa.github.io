@@ -14,9 +14,9 @@ My PhD project focuses on the influence of magmatic water content on metal parti
 
 Outside that, my interests include:
 
-* **Education** - I take a keen interest in English education policy.
+* **Education** - including education policy. 
 
-* **Access to academia** - especially in the earth sciences, which suffers from a large socio-economic gap. My small part to play has been in outreach - chiefly through university events.
+* **Access to academia** - especially in the earth sciences, which suffers from a large socio-economic gap. My small part to play has been in outreach - chiefly through university events - and I will further pursue this.
 
 * **Science for society** - including the science-policy interface. My research focus has utility in understanding volcanic implications for society and environment.
 
