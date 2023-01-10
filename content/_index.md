@@ -3,7 +3,7 @@ blurb:
 description: Earth science PhD student interested in people, place, and planet.
 title: Wasim Mustafa
 greeting:
-stretch: /cover image/cover.webp
+stretch: /cover image/cover-lakes.jpeg
 ---
 
 Since January 2023 I have been a PhD student at University College London and the Natural History Museum, funded through a [NERC](https://www.ukri.org/councils/nerc/) studentship. Beforehand, I studied geology at the University of Manchester, graduating in 2022.
