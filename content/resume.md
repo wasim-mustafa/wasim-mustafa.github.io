@@ -51,3 +51,13 @@ I am a PhD student at UCL Earth Sciences and the Natural History Museum. My MPhi
 <u>**BP Achievement Award**</u> (2020)<br>£1,000 stipend. Awarded for policy essay regarding future natural gas use.
 
 <br>
+
+## Skills
+
+* Presentation and outreach - including outreach to the general public at the Natural History Museum, London, supporting the 2023 Volcanic and Magmatic Studies Group conference.
+
+* Organisation - exampled by overseeing a mentoring scheme supporting c. 150 undergraduates in my department, and organising a student conference.
+
+* Analytical experience - such as with the R programming language, which I have used for spatial analyses including producing geological maps or investigating the distribution of Living Planet Index population recordings, and handling large datasets to acquire summary statistics.
+
+<br>
