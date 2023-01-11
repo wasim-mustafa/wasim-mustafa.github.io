@@ -33,7 +33,7 @@ I am a PhD student at UCL Earth Sciences and the Natural History Museum. My MPhi
 
 <b>2021</b> 
 
-<u>**Undergraduate Research Experience Placement** - Zoological Society of London</u> <br>Six-week paid internship with the Institute of Zoology's Indicators and Assessments Unit, investigating representational gaps in the Living Planet Index.
+<u>**Undergraduate Research Experience Placement** - Zoological Society of London</u> <br>Six-week paid internship with the Institute of Zoology's Indicators and Assessments Unit, investigating representational gaps in the Living Planet Index. Culminated in a presentation to WWF's Chief Freshwater Adviser.
 
 <br>
 
