@@ -54,10 +54,12 @@ I am a PhD student at UCL Earth Sciences and the Natural History Museum. My MPhi
 
 ## Skills
 
-* Presentation and outreach - including outreach to the general public at the Natural History Museum, London, supporting the 2023 Volcanic and Magmatic Studies Group conference.
+* **Fieldwork** - including a position as Field Assistant supporting the 2022 Mission Jurassic dig.
 
-* Organisation - exampled by overseeing a mentoring scheme supporting c. 150 undergraduates in my department, and organising a student conference.
+* **Presentation and outreach** - including outreach to the general public at the Natural History Museum, London, supporting the 2023 Volcanic and Magmatic Studies Group conference.
 
-* Analytical experience - such as with the R programming language, which I have used for spatial analyses including producing geological maps or investigating the distribution of Living Planet Index population recordings, and handling large datasets to acquire summary statistics.
+* **Organisation** - exampled by overseeing a mentoring scheme supporting c. 150 undergraduates in my department, and organising a student conference.
+
+* **Analytical experience** - including the R programming language, which I have used for spatial analyses including producing geological maps or investigating the distribution of Living Planet Index population recordings, alongside handling large datasets to acquire summary statistics.
 
 <br>
