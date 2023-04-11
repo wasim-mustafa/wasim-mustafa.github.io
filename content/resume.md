@@ -46,7 +46,7 @@ I am a PhD student at UCL Earth Sciences and the Natural History Museum. My MPhi
 <br>
 
 ## Awards
-<u>**Palaeontological Association Undergraduate Prize**</u> (2022)
+<u>**Palaeontological Association Undergraduate Prize**</u> (2022)<br>Awarded membership of the Palaeontological Association for my undergraduate dissertation investigating the outcomes of a macroevolutionary simulator, REvoSim.
 
 <u>**BP Achievement Award**</u> (2020)<br>£1,000 stipend. Awarded for policy essay regarding future natural gas use.
 
@@ -60,6 +60,6 @@ I am a PhD student at UCL Earth Sciences and the Natural History Museum. My MPhi
 
 * **Organisation** - exampled by overseeing a mentoring scheme supporting c. 150 undergraduates in my department, and organising a student conference.
 
-* **Analytical experience** - including the R programming language, which I have used for spatial analyses including producing geological maps or investigating the distribution of Living Planet Index population recordings, alongside handling large datasets to acquire summary statistics.
+* **Analytical experience** - 
 
 <br>
