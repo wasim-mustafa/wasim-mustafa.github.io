@@ -57,7 +57,7 @@ I am a PhD student at UCL Earth Sciences and the Natural History Museum. My MPhi
 
 * **Fieldwork** - including a position as Field Assistant supporting the 2022 Mission Jurassic dig.
 
-* **Presentation and outreach** - e.g., communicating volcanology to the general public at the Natural History Museum [2023 VMSG Conference](https://archive.md/98Kau).
+* **Presentation and outreach** - e.g., communicating volcanology to the general public at the Natural History Museum during the [2023 VMSG Conference](https://archive.md/98Kau).
 
 * **Organisation** - e.g., overseeing a mentoring scheme supporting c. 150 undergraduates in my department, and organising a student conference with the Linnean and British Ecological societies.
 
