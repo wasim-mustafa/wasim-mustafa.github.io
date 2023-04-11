@@ -46,6 +46,7 @@ I am a PhD student at UCL Earth Sciences and the Natural History Museum. My MPhi
 <br>
 
 ## Awards
+
 <u>**Palaeontological Association Undergraduate Prize**</u> (2022)<br>Awarded membership of the Palaeontological Association for my undergraduate dissertation investigating the outcomes of a macroevolutionary simulator, REvoSim.
 
 <u>**BP Achievement Award**</u> (2020)<br>£1,000 stipend. Awarded for policy essay regarding future natural gas use.
@@ -56,9 +57,9 @@ I am a PhD student at UCL Earth Sciences and the Natural History Museum. My MPhi
 
 * **Fieldwork** - including a position as Field Assistant supporting the 2022 Mission Jurassic dig.
 
-* **Presentation and outreach** - including outreach to the general public at the Natural History Museum, London, supporting the 2023 Volcanic and Magmatic Studies Group conference.
+* **Presentation and outreach** - e.g., communicating volcanology to the general public at the Natural History Museum [2023 VMSG Conference](https://archive.md/98Kau).
 
-* **Organisation** - exampled by overseeing a mentoring scheme supporting c. 150 undergraduates in my department, and organising a student conference.
+* **Organisation** - e.g., overseeing a mentoring scheme supporting c. 150 undergraduates in my department, and organising a student conference with the Linnean and British Ecological societies.
 
 * **Analytical experience** - including R and Bash scripting, petrography, and GIS.
 
