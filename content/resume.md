@@ -60,6 +60,6 @@ I am a PhD student at UCL Earth Sciences and the Natural History Museum. My MPhi
 
 * **Organisation** - exampled by overseeing a mentoring scheme supporting c. 150 undergraduates in my department, and organising a student conference.
 
-* **Analytical experience** - 
+* **Analytical experience** - including R and Bash scripting, petrography, and GIS.
 
 <br>
